@@ -1,0 +1,47 @@
+[
+    {
+        "id": "68da034f23a18",
+        "email": "abrahanmoises987@gmail.com",
+        "password": "$2y$10$KtruxqvPceR6BvbpiqMUQOTUe1RGVEUFFdgUot9uzHjPeX5RqrWn6",
+        "security_question": "\u00bfCu\u00e1l es tu comida favorita?",
+        "security_answer": "$2y$10$rwoZ3KyzlULDCTmU7E50gO2b6hxFtOM6CBrcZQF503ZO\/hx8XcRcy",
+        "created_at": "2025-09-28 23:55:59",
+        "last_login": "2025-10-12 12:00:31"
+    },
+    {
+        "id": "68dab3dd10232",
+        "email": "hielofrios093@gmail.com",
+        "password": "$2y$10$DJIW.pf5kLtBz67VstjZhueNTMEFEhwmQjMr7BMpRd5o3hnKoHLzC",
+        "security_question": "\u00bfEn qu\u00e9 ciudad naciste?",
+        "security_answer": "$2y$10$XMsHKpSP\/WI0OdcGOn7yWe69AOmMQ1LMFGP2lVf1w6FYVF6ijIdr6",
+        "created_at": "2025-09-29 12:29:17",
+        "last_login": "2025-09-29 12:29:21"
+    },
+    {
+        "id": "68de0cd704420",
+        "email": "hola@gmail.com",
+        "password": "$2y$10$5Yc8QsNiUDDY\/YxDqLDPRe49BbJt4BohHCYS5dJxZWHM9xGGE6HCm",
+        "security_question": "\u00bfCu\u00e1l es tu comida favorita?",
+        "security_answer": "$2y$10$.BLVp5ffd5ajnIQ\/YyaZSem56pcsDK1kEZ6VmYR5zc7ye5ndmrKae",
+        "created_at": "2025-10-02 01:25:43",
+        "last_login": "2025-10-02 01:25:50"
+    },
+    {
+        "id": "68e6b628d4306",
+        "email": "frasesbebor@gmail.com",
+        "password": "$2y$10$H9WCMfAh.AKGz7xeh7zREO4888hLtLetuQ7.st6siOffUuLsa2Iw6",
+        "security_question": "\u00bfCu\u00e1l es el nombre de tu primera mascota?",
+        "security_answer": "$2y$10$oEBOKfaBhlvRmbjrO\/72we8wnbdjjdWMpgitRf1w5w27JAE6lmZzG",
+        "created_at": "2025-10-08 15:06:16",
+        "last_login": "2025-10-08 15:06:44"
+    },
+    {
+        "id": "68e6e1a3c311c",
+        "email": "minexdt@gmail.com",
+        "password": "$2y$10$clKQ3xlWhUgoGoWNEB0WeObm3ydvjp1Nv.Na4uwhRt3kcseUPKBkS",
+        "security_question": "\u00bfCu\u00e1l es tu color favorito?",
+        "security_answer": "$2y$10$THTw8HVfiswlTQm1MK5yd.FFKpmf\/ZkRNJznvKReCf4esQ.mWniEW",
+        "created_at": "2025-10-08 18:11:47",
+        "last_login": "2025-10-08 18:11:55"
+    }
+]
